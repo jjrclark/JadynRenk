@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php require "inc/functions.php"; ?>
 
 <head>
     <meta charset="UTF-8">
@@ -10,16 +11,15 @@
 </head>
 
 <body>
+    <?php require "inc/nav.inc.php"; ?>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Jadyn Renk</h1>
-                <h2>Web Developer</h2>
+                <!-- <h2>Web Developer</h2>
                 <p>My name is Jadyn Renk and I am a web development student. I have experience in HTML, CSS, JavaScript, PHP, and MySQL. </p>
-                <a href="resume.html" class="btn btn-primary">View Resume</a>
+                <a href="resume.html" class="btn btn-primary">View Resume</a> -->
             </div>
         </div>
-    </div>
 </body>
 
 </html>
